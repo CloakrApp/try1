@@ -1,1 +1,1 @@
-# try1
+here is basic structure of the app and some initial designing. this version does not follow monjima's design yet. just did the navigation part and basic structure. we will edit this several times and push the final version in a new repository that we will build at the venue.
